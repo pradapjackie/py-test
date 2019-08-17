@@ -14,6 +14,8 @@ timestampe2=time()
 # print(timstamp)
 print(timestampe2)
 
+print('sample status')
+
 print(today)
 print(todays)
 print(todays1)
